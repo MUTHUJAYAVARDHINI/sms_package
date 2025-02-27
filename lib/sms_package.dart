@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library;
+
+export 'package:sms_package/src/features/Login/LoginScreen.dart';
+export 'package:sms_package/src/features/Login/OTPScreen.dart';
